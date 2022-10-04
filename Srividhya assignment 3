@@ -1,0 +1,11 @@
+#TRAFFIC LIGHT SYSTEM USING PYTHON 
+k=int(input("enter the input: "))
+range1=range(1,21,1)
+range2=range(21,41,1)
+range3=range(41,61,1)
+if k in range1:
+  print("red light")
+elif k in range2 :
+  print("yellow light")
+elif k in range3:
+  print("green light")
