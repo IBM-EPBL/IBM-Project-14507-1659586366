@@ -20,7 +20,7 @@ Smart Solutions for railways is designed to reduced the work load of the user an
 
 ![image](https://user-images.githubusercontent.com/53528852/126501582-2c41cd38-80be-444e-a319-626a3d5ed34d.png)
 
-Team : T.S.Monish kumar
-       N. Kokila
-       S. Jaya kumaran
-       P. Suba lakshmi
+Team : K. Sri Vidhya
+       G. Pavani
+       K. Varshitha Reddy
+       P. Yamini
