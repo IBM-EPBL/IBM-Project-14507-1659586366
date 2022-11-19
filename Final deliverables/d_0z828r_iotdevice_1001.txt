@@ -1,0 +1,7 @@
+2021-11-18 22:42:48,795   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-18 22:49:01,838   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-18 22:51:38,563   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-19 22:52:11,470   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-19 22:54:20,716   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-19 00:02:49,151   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
+2021-11-19 01:34:51,905   ibmiotf.device.Client      INFO    Connected successfully: d:0z828r:iotdevice:1001
